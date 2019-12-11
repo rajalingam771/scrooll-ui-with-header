@@ -31,14 +31,3 @@ react-native run-ios
 * [Prop-Types](https://github.com/facebook/prop-types)
 
 
-## Authors
-
-* **Rutvik Bhatt** - [Medium](https://medium.com/@rutvikbhatt9), [Twitter](https://twitter.com/rutvik_bhatt)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-
-just for test
