@@ -1,0 +1,4 @@
+#Wed Dec 11 14:35:37 IST 2019
+base.0=/home/rajn/Desktop/mysample/react-native-header-animation/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

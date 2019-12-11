@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rajn/Desktop/mysample/react-native-header-animation/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/rajn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1874f0dfc03f5d31c827bfb4be220fd2/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
