@@ -40,7 +40,5 @@ react-native run-ios
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
- 
-* **Shubham Sachania** - [Twitter](https://www.twitter.com/Ss70550841)
 
+just for test
